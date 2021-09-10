@@ -2,6 +2,9 @@ import Notiflix from "notiflix";
 
 // Створюємо об'єкт посилань
 
+
+
+
 const refs = {
 
     form: document.querySelector(".form"),
